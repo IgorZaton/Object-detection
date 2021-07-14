@@ -8,3 +8,5 @@ SlidersC.py is class that contains basic GUI for setting lower and upper HSV col
 Program detects color set in basic GUI using mask and put circle on found countour (or contours). The center of the circle is showed as the center of detected object(s).
 
 Program is fully described in comments in the code.
+
+Based on Adrian Rosebrock's blog: https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/
